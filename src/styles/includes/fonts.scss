@@ -1,0 +1,30 @@
+// Add your font imports and definitions here
+/* @font-face {
+  font-family: 'Inter';
+  src: url('/path/to/inter.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('/path/to/roboto.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('/path/to/open-sans.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('/path/to/lora.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+// ...additional font definitions...
